@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'c:/projects/JavaBasics/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/projects/JavaBasics/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'java-basics 1.0.0 API'
+-use
+-version
+-windowtitle
+'java-basics 1.0.0 API'
+org.rbr.example.basics
+org.rbr.example.basics.enums
+org.rbr.example
+c:\projects\JavaBasics\src\main\java = 1717466420414
+c:\projects\JavaBasics\target\site\apidocs\allclasses-index.html = 1719421579713
+c:\projects\JavaBasics\target\site\apidocs\allpackages-index.html = 1719421579715
+c:\projects\JavaBasics\target\site\apidocs\element-list = 1719421579645
+c:\projects\JavaBasics\target\site\apidocs\help-doc.html = 1719421579742
+c:\projects\JavaBasics\target\site\apidocs\index-all.html = 1719421579736
+c:\projects\JavaBasics\target\site\apidocs\index.html = 1719421579701
+c:\projects\JavaBasics\target\site\apidocs\jquery-ui.overrides.css = 1719421579764
+c:\projects\JavaBasics\target\site\apidocs\member-search-index.js = 1719421579721
+c:\projects\JavaBasics\target\site\apidocs\module-search-index.js = 1719421579717
+c:\projects\JavaBasics\target\site\apidocs\overview-summary.html = 1719421579738
+c:\projects\JavaBasics\target\site\apidocs\overview-tree.html = 1719421579698
+c:\projects\JavaBasics\target\site\apidocs\package-search-index.js = 1719421579719
+c:\projects\JavaBasics\target\site\apidocs\script.js = 1719421579750
+c:\projects\JavaBasics\target\site\apidocs\search.js = 1719421579752
+c:\projects\JavaBasics\target\site\apidocs\stylesheet.css = 1719421579748
+c:\projects\JavaBasics\target\site\apidocs\tag-search-index.js = 1719421579723
+c:\projects\JavaBasics\target\site\apidocs\type-search-index.js = 1719421579720
