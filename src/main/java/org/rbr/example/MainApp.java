@@ -17,13 +17,14 @@ public class MainApp {
      */
     public static void main(String[] args) {
         ControlFlow controlFlow = new ControlFlow();
+        //Note the use of '+' here is called the String concatenation operator - it used to join strings together
         System.out.println("ControlFlow instance count = " + controlFlow.getInstanceCount());
         ControlFlow anotherControlFlow = new ControlFlow();
         System.out.println("ControlFlow instance count = " + controlFlow.getInstanceCount());
         System.out.println("ControlFlow.performCalculation = " + anotherControlFlow.performCalculation(3));
         // controlFlow.basicWhileLoop();
         // controlFlow.doWhile();
-        controlFlow.basicForLoop();
+        // controlFlow.basicForLoop();
         // controlFlow.enhancedForLoop();
 
         // anotherControlFlow.checkContents("Hi");
@@ -45,8 +46,8 @@ public class MainApp {
         // Operators.typeNarrowing();
         // Operators.floatingPointPrecisionIssues();
 
-        EnumExample.simpleEnum(TeamBot.ECLIPSE);
-        EnumExample.findLargestPlanet(List.of(Planet.EARTH, Planet.MARS, Planet.SATURN, Planet.MARS));
+        // EnumExample.simpleEnum(TeamBot.ECLIPSE);
+        // EnumExample.findLargestPlanet(List.of(Planet.EARTH, Planet.MARS, Planet.SATURN, Planet.MERCURY));
     }
 
 }

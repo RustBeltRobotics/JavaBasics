@@ -1,7 +1,7 @@
 package org.rbr.example.basics.enums;
 
 public enum Planet {
-    
+
     MERCURY(1, 1516),
     VENUS(2, 3761),
     EARTH(3, 3959),
@@ -14,6 +14,7 @@ public enum Planet {
     private final int order; //numeric ordering starting from the sun - closest = 1
     private final int radius;  //approximate radius (in miles)
 
+    //constructor
     Planet(int order, int radius) {
         this.order = order;
         this.radius = radius;

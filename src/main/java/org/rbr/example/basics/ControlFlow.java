@@ -9,7 +9,7 @@ public class ControlFlow {
     private static final double SOME_CONSTANT = 10.0; //a constant (non-changeable value)
     private static int instanceCount = 0;
 
-    //this is a constructor
+    //this is a constructor - use to initialize state of your object
     public ControlFlow() {
         instanceCount++;
     }

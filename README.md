@@ -3,14 +3,22 @@ Intro project to teach the basics of the Java programming language
 
 ## Setup For Meetings/Tutorials
 
-- Install VSCode https://code.visualstudio.com/
-
+- Install VSCode https://code.visualstudio.com/ - this will be our IDE (Integrated Development Environment)
 - Install the "Coding Pack for Java" for VSCode https://code.visualstudio.com/docs/java/java-tutorial
-
 - Install GitHub Desktop to get the code we will be reviewing https://desktop.github.com/
-
 - Clone the code for this project to your machine
     - Open GitHub desktop, click the Clone button, click the URL tab and use the URL https://github.com/RustBeltRobotics/JavaBasics
+
+## Useful References/Tutorials
+
+- Java Intro
+    - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+- Keywords, operators and concepts reference
+    - https://www.geeksforgeeks.org/java-cheat-sheet/
+- VSCode usage
+    - https://code.visualstudio.com/docs/languages/java
+- Java 17 javadocs
+    - https://docs.oracle.com/en/java/javase/17/docs/api/index.html
 
 ## VSCode Keyboard Shortcuts
 - F2
