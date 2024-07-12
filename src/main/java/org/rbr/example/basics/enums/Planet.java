@@ -21,9 +21,9 @@ public enum Planet {
     }
 
     public static Planet fromOrderFromSun(int order) {
-        for (Planet day : Planet.values()) {
-			if (day.order == order) {
-				return day;
+        for (Planet planet : Planet.values()) {
+			if (planet.order == order) {
+				return planet;
 			}
 		}
 

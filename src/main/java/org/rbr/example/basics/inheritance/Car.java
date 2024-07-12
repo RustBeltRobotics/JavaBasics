@@ -33,7 +33,7 @@ public class Car extends Vehicle {
 
         currentFuelLevel -= fuelConsumption;  //consume a little fuel
 
-        if (running && currentSpeed < getMaxSpeed() && currentFuelLevel > maxFuelLevel * fuelConsumption) {
+        if (currentSpeed < getMaxSpeed() && currentFuelLevel > maxFuelLevel * fuelConsumption) {
             currentSpeed += speedFactor;
         }
 
