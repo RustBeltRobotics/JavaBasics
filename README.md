@@ -13,6 +13,8 @@ Intro project to teach the basics of the Java programming language
 
 - Java Intro
     - https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+- Learning Java Tutorial
+    - https://dev.java/learn/
 - Keywords, operators and concepts reference
     - https://www.geeksforgeeks.org/java-cheat-sheet/
 - VSCode usage
